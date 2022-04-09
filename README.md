@@ -4,7 +4,7 @@
 - sou iniciante na área de programação atualmente estou no 2° semestre da faculdade.
 - 🌱 I’m currently learning  Linguagns de programações  C, C# , e linguagens de Marcações  html e Css.
 - 
-<div align="center 
+<div>
    
  <a href="https://github.com/Jaquiel-Moreno">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaquiel-Moreno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
