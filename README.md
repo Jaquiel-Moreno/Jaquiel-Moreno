@@ -3,7 +3,6 @@
 - 🔭  Atualmente estou desempregado em busca de uma oportunidade como estagiário ou mesmo efetivo.
 - sou iniciante na área de programação atualmente estou no 2° semestre da faculdade.
 - 🌱 I’m currently learning  Linguagns de programações  C, C# , e linguagens de Marcações  html e Css.
-- 
 <div>
    
  <a href="https://github.com/Jaquiel-Moreno">
