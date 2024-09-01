@@ -2,6 +2,7 @@
 ### Contatos 
 [![blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://jaquielmoreno.netlify.app/) 
 [![Linkerdin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaquiel-moreno/)
+
 ![Jaquiel-Moreno GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaquiel-Moreno&show_icons=true&theme=dracula)
 
 ## Tecnologias que estudo atualmente
