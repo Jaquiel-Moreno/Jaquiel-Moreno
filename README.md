@@ -13,7 +13,7 @@
   <img align ="center"  alt ="JS" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align ="center"  alt ="Java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align ="center"  alt ="C#" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-   <img align ="center"  alt ="React" src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAF" />
+   <img align ="center"  alt ="React" src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  
 </div>
 
