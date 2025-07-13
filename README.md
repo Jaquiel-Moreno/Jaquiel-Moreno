@@ -1,4 +1,7 @@
 # Olá!! eu Sou o Jaquiel Moreno 👋
+##Recem formado em Tecnologia de Análise e Desenvolvimento de Sistemas
+##Faculdade  FATEC de Sorocaba-SP
+
 #### Estou em busca de uma oportunidade na área de tecnologia, não tenho experiência na área, mas tenho muita vontade de aprender, convido a conhecer os meus projetos que fiz duarante a faculdade, gosto muito de tecnologia e estou focado em me auto desenvolver.
 
 ### Contatos 
