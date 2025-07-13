@@ -1,5 +1,5 @@
 # Olá!! eu Sou o Jaquiel Moreno 👋
-#### Estou em busca de uma oportunidade na área de tecnologia, não tenho experiência na área, mas tenho muita vontade de aprender, convido a conhecer os meus projetos que fiz duarante a faculdade, gosto muito de tecnologia e estou focoado em me auto desenvolver.
+#### Estou em busca de uma oportunidade na área de tecnologia, não tenho experiência na área, mas tenho muita vontade de aprender, convido a conhecer os meus projetos que fiz duarante a faculdade, gosto muito de tecnologia e estou focado em me auto desenvolver.
 
 ### Contatos 
 [![blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://jaquielmoreno.netlify.app/) 
