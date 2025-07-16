@@ -11,7 +11,7 @@
 
 ![Jaquiel-Moreno](https://github-readme-stats.vercel.app/api?username=Jaquiel-Moreno&show_icons=true&theme=dracula)
 
-![Jaquiel-Moreno](https://github-readme-stats.vercel.app/api/top-langs/?username={Jaquiel-Moreno}&theme=blue-green)
+![Jaquiel-Moreno](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaquiel-Moreno&theme=blue-green)
 
 ## Tecnologias que estudo atualmente
 <div style = "display: inline_block"><br/>
