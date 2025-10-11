@@ -22,7 +22,10 @@
  <img align = "center" alt ="React" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img align = "center" alt ="Node js" src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
  <img align = "center" alt ="Markdown" src = "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> 
-  <img align = "center" alt ="MYSQL" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
+ <img align = "center" alt ="MYSQL" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
+
+
+ <img src="https://raw.githubusercontent.com/Jaquiel-Moreno/Jaquiel-Moreno/output/snake.svg" alt="Snake animation" />
  
 </div>
 
